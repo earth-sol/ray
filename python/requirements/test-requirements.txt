@@ -38,7 +38,7 @@ opentelemetry-sdk==1.26.0
 opentelemetry-exporter-otlp>=1.26.0
 opentelemetry-exporter-opencensus==0.47b0
 pexpect==4.8.0
-Pillow==10.3.0; platform_system != "Windows"
+Pillow==12.1.1; platform_system != "Windows"
 proxy.py==2.4.3
 pydantic>=2.9.0
 pydot==1.4.2
